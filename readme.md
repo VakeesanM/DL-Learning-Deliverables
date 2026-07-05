@@ -4,20 +4,19 @@ This repository contains my deliverable projects for a 12-week self-directed Dee
 
 ## Schedule
 
-| Week | Topic | Deliverable|
-|------|-------|-------|
-| 1  | Fundamentals of Neural Networks | Code a 2 Layer Neurel Network from Strach and Trained it on Mnist Dataset|
-| 2  | Regularization | Trained 4 Different Versions of Model on the same dataset: A Base Model, + Drop Out,  + Batch Norm, and Data Augementation. Compared Train Loss, Test Loss and Accuracy across all 4 versions|  
-| 3  | ResNet | Trained 3 Different Versions of Resnet18 on The CIFAR Dataset; A ResNet model coded from stratch, Feature Extracted Resnet Model and a Fine Tuned Resnet Model. Compared Train Loss, Test Loss and Accuracy across all 3 versions|
-| 4  | Depthwise Convolutions, EfficientNet & Inception | Coded InceptionNet from Scratch and trained it.
-| 5  | RNNs & LSTMs | Coded a LSTM model and classified Heart ECG
-| 6  | Attention Mechanisms & Seq2Seq |
-| 7  | The Transformer Architecture |
-| 8  | Autoencoders & Variational Autoencoders (VAEs) | Coded a Variational Autoencoders and attempted to generate images using it.
-| 9  | Generative Adversarial Networks (GANs) | Coded both a GAN and a WGAN and compared the results between the two. 
-| 10 | Custom Training Loops, Mixed Precision & Custom Loss Functions |
-| 11 | Model Inspection, Interpretability & Debugging |
-| 12 | Object Detection with YOLO & Faster R-CNN |
+| Week | Topic                                            | Deliverable                                                                                                                                                                                                                            |
+| ---- | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Fundamentals of Neural Networks                  | Coded a 2-Layer Neural Network from Scratch and Trained it on the MNIST Dataset                                                                                                                                                        |
+| 2    | Regularization                                   | Trained 4 Different Versions of the Model on the Same Dataset: A Base Model, + Dropout, + Batch Normalization, and Data Augmentation. Compared Train Loss, Test Loss, and Accuracy Across All 4 Versions                               |
+| 3    | ResNet                                           | Trained 3 Different Versions of ResNet-18 on the CIFAR Dataset: A ResNet Model Coded from Scratch, a Feature-Extracted ResNet Model, and a Fine-Tuned ResNet Model. Compared Train Loss, Test Loss, and Accuracy Across All 3 Versions |
+| 4    | Depthwise Convolutions, EfficientNet & Inception | Coded InceptionNet from Scratch and Trained It                                                                                                                                                                                         |
+| 5    | RNNs & LSTMs                                     | Coded an LSTM Model and Classified Heart ECGs                                                                                                                                                                                          |
+| 6    | Attention Mechanisms & Seq2Seq                   | Created a German-to-English Translator with Attention                                                                                                                                                                                  |
+| 7    | The Transformer Architecture                     | Created an Encoder Block from Scratch                                                                                                                                                                                                  |
+| 8    | Autoencoders & Variational Autoencoders (VAEs)   | Coded a Variational Autoencoder and Attempted to Generate Images Using It                                                                                                                                                              |
+| 9    | Generative Adversarial Networks (GANs)           | Coded Both a GAN and a WGAN and Compared the Results Between the Two                                                                                                                                                                   |
+| 10   | Object Detection with YOLO & Faster R-CNN        | Fine-Tuned a YOLO Model                                                                                                                                                                                                                |
+
 
 ## Notes
 
