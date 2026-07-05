@@ -1,6 +1,6 @@
 # Deep Learning Self-Study
 
-This repository contains my deliverable projects for a 12-week self-directed Deep Learning curriculum.
+This repository contains my deliverable projects for a 10-week self-directed Deep Learning curriculum.
 
 ## Schedule
 
@@ -16,6 +16,11 @@ This repository contains my deliverable projects for a 12-week self-directed Dee
 | 8    | Autoencoders & Variational Autoencoders (VAEs)   | Coded a Variational Autoencoder and Attempted to Generate Images Using It                                                                                                                                                              |
 | 9    | Generative Adversarial Networks (GANs)           | Coded Both a GAN and a WGAN and Compared the Results Between the Two                                                                                                                                                                   |
 | 10   | Object Detection with YOLO & Faster R-CNN        | Fine-Tuned a YOLO Model                                                                                                                                                                                                                |
+## Run The Code:
+```bash
+git clone https://github.com/VakeesanM/DL-Learning-Deliverables.git
+pip install -r requirments.txt
+```
 
 
 ## Notes
